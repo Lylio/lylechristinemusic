@@ -1,0 +1,30 @@
+[
+  {
+    "name": "spotify",
+    "link": "https://open.spotify.com/album/0N5zF8HnCOln8KSUhBYv2j?si=Cc5IL55LQHSMCZCVHEO5Aw"
+  },
+  {
+    "name": "apple_music",
+    "link": "https://music.apple.com/it/album/fossil-single/1774275792"
+  },
+  {
+    "name": "amazon_music",
+    "link": "https://music.amazon.it/albums/B0DK5YYS95"
+  },
+  {
+    "name": "tidal",
+    "link": "https://tidal.com/browse/track/393678248"
+  },
+  {
+    "name": "youtube",
+    "link": "https://youtu.be/vtXFiFwSIy0"
+  },
+  {
+    "name": "youtube_music",
+    "link": "https://music.youtube.com/watch?v=LOuB-IhdCqY&feature=shared"
+  },
+  {
+    "name": "deezer",
+    "link": "https://deezer.page.link/8i6BVFXq616UikYv9"
+  }
+]
