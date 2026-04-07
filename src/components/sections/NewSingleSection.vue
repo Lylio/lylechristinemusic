@@ -113,7 +113,7 @@ const videoSrc = computed(() => {
               muted
               loop
               :src="videoSrc"
-              :alt="`Thumbnail for Benthos - ${props.title}`"
+              :alt="`Thumbnail for Lyle Christine - ${props.title}`"
               class="video-responsive opacity-90 rounded-lg flat-shadow"
             />
 

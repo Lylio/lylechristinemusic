@@ -299,7 +299,7 @@ l-115 23 -1395 3 -1394 3 84 -52z m2585 -778 c185 -61 320 -172 394 -323 72
 
               <p class="text-body-1 pt-4 px-6">
                 The atmospherically melodic Let Me Plunge is the third single to be released from
-                the album, and this far, the best sonic opportunity to introduce Benthos to a wider
+                the album, and this far, the best sonic opportunity to introduce Lyle Christine to a wider
                 prog audience.
               </p>
             </section>

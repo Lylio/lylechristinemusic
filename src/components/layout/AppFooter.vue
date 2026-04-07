@@ -15,7 +15,7 @@ const { mobile } = useDisplay()
           class="d-flex align-center justify-center justify-md-start text-brown-lighten-5 py-0"
         >
           <p class="pt-2 pt-md-0" :style="{ fontSize: '12px' }">
-            Benthos © {{ new Date().getFullYear() }}
+            Lyle Christine © {{ new Date().getFullYear() }}
           </p>
         </v-col>
 
@@ -28,7 +28,7 @@ const { mobile } = useDisplay()
           md="3"
           class="d-flex align-center justify-center justify-md-end text-brown-lighten-5 py-0 pl-0"
         >
-          <p :style="{ fontSize: mobile ? '10px' : '12px' }">website by Amalia Cicala</p>
+          <p :style="{ fontSize: mobile ? '10px' : '12px' }">website by lylio</p>
         </v-col>
       </v-row>
     </v-container>

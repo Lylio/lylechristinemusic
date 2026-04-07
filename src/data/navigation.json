@@ -26,5 +26,9 @@
   {
     "name": "Contacts",
     "link": "/contacts"
+  },
+  {
+    "name": "Blog",
+    "link": "https://blog.lylechristine.com/"
   }
 ]

@@ -62,7 +62,7 @@ onUnmounted(() => {
     </v-parallax>
 
     <div v-else class="position-relative w-100">
-      <v-img :src="props.heroSm" alt="Benthos" />
+      <v-img :src="props.heroSm" alt="Lyle Christine" />
 
       <div
         :class="[

@@ -19,7 +19,7 @@ import hero_sm from '/backgrounds/small/bg_hero-sm.avif'
 
 <template>
   <HeroSection :hero-lg="hero_lg" :hero-sm="hero_sm" />
-  <AlbumSection :overline="'The New Album'" :title="'From Nothing'" :subtitle="'Out now'" />
+  <AlbumSection :overline="'The Current Album'" :title="'Funraiser'" :subtitle="'Out now'" />
   <!-- <NewSingleSection
     :overline="'The latest single'"
     :title="'let me plunge'"
@@ -28,11 +28,11 @@ import hero_sm from '/backgrounds/small/bg_hero-sm.avif'
     :video-link="'https://www.youtube.com/watch?v=b2SJj3cd1NE'"
   /> -->
   <NewSingleSection
-    :overline="'Released February 7th, 2025'"
-    :title="'as a cordyceps'"
-    :fan-link="'https://ffm.to/benthos-as-a-cordyceps'"
-    :single-links="cordycepsStreamingLinks"
-    :video-link="'https://www.youtube.com/watch?v=YyU3vCAol-E'"
+    :overline="'Released August 16th, 2022'"
+    :title="'Stanky'"
+    :fan-link="'https://ffm.bio/lylechristine'"
+    :single-links="'LyleChristineStreamingLinks'"
+    :video-link="'https://www.youtube.com/watch?v=rpAY7lHNs3c'"
   />
   <HighlightSection :image="'home'" />
   <MerchSection />

@@ -18,7 +18,7 @@ const { mdAndDown } = useDisplay()
               class="text-body-1 text-center font-weight-bold"
               :style="{ fontSize: '18px !important' }"
             >
-              {{ 'Benthos - ' + item.title }}
+              {{ 'Lyle Christine - ' + item.title }}
             </h3>
             <p class="text-overline text-center opacity-70 mt-2 mb-8">{{ item.releaseDate }}</p>
           </div>
@@ -31,7 +31,7 @@ const { mdAndDown } = useDisplay()
               muted
               loop
               :src="mdAndDown ? item.coverSm : item.coverLg"
-              :alt="`Thumbnail for Benthos - ${item.title}`"
+              :alt="`Thumbnail for Lyle Christine - ${item.title}`"
               class="video-responsive opacity-90 rounded-lg flat-shadow"
             />
             <v-icon icon="fas fa-circle-play" class="play-icon" color="brown-lighten-5" />

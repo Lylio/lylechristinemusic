@@ -105,8 +105,8 @@ const { mobile, mdAndDown } = useDisplay()
               v-for="(link, index) in release.links"
               :key="index"
               :href="link.link"
-              :alt="`Benthos - ${release.title} on ${link.name}`"
-              :aria-label="`Benthos - ${release.title} on ${link.name}`"
+              :alt="`Lyle Christine - ${release.title} on ${link.name}`"
+              :aria-label="`Lyle Christine - ${release.title} on ${link.name}`"
               icon
               flat
               variant="text"

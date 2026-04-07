@@ -30,7 +30,7 @@ const isLoginDisabled = computed(() => {
 <template>
   <div class="d-flex align-center h-100 bg-pattern">
     <div class="d-flex flex-column align-center w-100">
-      <v-img :src="logo" :width="180" alt="Benthos band" class="pb-12" eager />
+      <v-img :src="logo" :width="180" alt="Lyle Christine band" class="pb-12" eager />
 
       <v-form @submit.prevent="handleLogin()" class="w-50">
         <v-text-field

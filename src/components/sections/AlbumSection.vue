@@ -2,11 +2,11 @@
 import { useDisplay } from 'vuetify'
 import epkData from '@/data/epkData.json'
 
-import cover_lg from '/album_covers/large/benthos_fromnothing_cover-lg.avif'
+import cover_lg from '/album_covers/large/funraiser-lg.avif'
 import cover_sm from '/album_covers/small/benthos_fromnothing_cover-sm.avif'
 import fromnothing_mockups_lg from '/images/fromnothing_mockups-lg.png'
 import fromnothing_mockups_sm from '/images/fromnothing_mockups-sm.png'
-import insideout_logo from '/logos/insideout_logo_white.png'
+import flaky_records from '/logos/flaky_records.png'
 
 const props = defineProps({
   overline: {
@@ -48,7 +48,7 @@ const navigateToUrl = (url: string) => {
           variant="flat"
           class="bg-green-lighten-2 text-body-2 text-md-body-1 mr-4 w-50 w-md-25 mt-6 mb-8"
           :size="mobile ? 'large' : 'x-large'"
-          :href="'https://benthos.lnk.to/FromNothing-Album'"
+          :href="'https://lylechristine.bandcamp.com/album/funraiser'"
           target="_blank"
         >
           STREAM / BUY
@@ -70,7 +70,7 @@ const navigateToUrl = (url: string) => {
           </v-col>
 
           <v-col cols="12" md="5" class="order-first order-md-last">
-            <v-img :src="mdAndDown ? cover_sm : cover_lg" alt="Benthos - From Nothing" eager />
+            <v-img :src="mdAndDown ? cover_sm : cover_lg" alt="Lyle Christine - Funraiser" eager />
           </v-col>
         </v-row>
 
@@ -78,13 +78,25 @@ const navigateToUrl = (url: string) => {
           :src="mdAndDown ? fromnothing_mockups_sm : fromnothing_mockups_lg"
           :class="[mdAndDown ? 'px-4' : '', 'cursor-pointer mt-6']"
           @click="navigateToUrl('https://ffm.bio/benthos')"
-          alt="Benthos - From Nothing"
+          alt="Lyle Christine - From Nothing"
           :width="mdAndDown ? '100%' : '80%'"
           eager
         />
 
         <footer class="d-flex flex-column justify-center align-center opacity-70 mt-6">
-          <v-img :src="insideout_logo" :width="120" alt="InsideOut Music" />
+          <a
+              href="https://www.flakyrecords.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              style="cursor: pointer"
+          >
+            <v-img
+                :src="flaky_records"
+                :width="200"
+                alt="Flaky Records"
+                class="flaky-logo"
+            />
+          </a>
         </footer>
       </v-container>
     </v-lazy>
@@ -94,5 +106,13 @@ const navigateToUrl = (url: string) => {
 <style lang="scss" scoped>
 .v-btn .v-img {
   filter: grayscale(100%) !important;
+}
+.flaky-logo {
+  transition: filter 0.2s ease, opacity 0.2s ease;
+
+  &:hover {
+    filter: brightness(0.85);
+    opacity: 0.9;
+  }
 }
 </style>

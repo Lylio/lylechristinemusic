@@ -31,7 +31,7 @@ const { mdAndDown } = useDisplay()
         <v-col cols="12" md="6">
           <v-img
             :src="mdAndDown ? cover_sm : cover_lg"
-            alt="Benthos - From Nothing"
+            alt="Lyle Christine - From Nothing"
             width="100%"
             eager
           />
@@ -96,7 +96,7 @@ const { mdAndDown } = useDisplay()
       <v-row class="pt-8">
         <v-col cols="12" md="6">
           <div class="text-center mb-4">
-            <h3 class="text-body-1 font-weight-bold">Benthos - Let Me Plunge (Official Video)</h3>
+            <h3 class="text-body-1 font-weight-bold">Lyle Christine - Let Me Plunge (Official Video)</h3>
             <p class="text-overline text-center">Released on March, 10th 2025</p>
           </div>
 
@@ -111,7 +111,7 @@ const { mdAndDown } = useDisplay()
                 muted
                 loop
                 :src="mdAndDown ? plunge_clip_sm : plunge_clip_lg"
-                alt="Thumbnail for Benthos - As a Cordyceps (Official Video)"
+                alt="Thumbnail for Lyle Christine - As a Cordyceps (Official Video)"
                 class="video-responsive"
               />
               <v-icon icon="fas fa-circle-play" class="play-icon" color="brown-lighten-5" />
@@ -121,7 +121,7 @@ const { mdAndDown } = useDisplay()
 
         <v-col cols="12" md="6">
           <div class="text-center mb-4">
-            <h3 class="text-body-1 font-weight-bold">Benthos - As a Cordyceps (Official Video)</h3>
+            <h3 class="text-body-1 font-weight-bold">Lyle Christine - As a Cordyceps (Official Video)</h3>
             <p class="text-overline text-center">Released on February, 7th 2025</p>
           </div>
 
@@ -136,7 +136,7 @@ const { mdAndDown } = useDisplay()
                 muted
                 loop
                 :src="mdAndDown ? cordyceps_clip_sm : cordyceps_clip_lg"
-                alt="Thumbnail for Benthos - As a Cordyceps (Official Video)"
+                alt="Thumbnail for Lyle Christine - As a Cordyceps (Official Video)"
                 class="video-responsive"
               />
               <v-icon icon="fas fa-circle-play" class="play-icon" color="brown-lighten-5" />
@@ -149,7 +149,7 @@ const { mdAndDown } = useDisplay()
       <v-row class="pt-8">
         <v-col cols="12" md="6">
           <div class="text-center mb-4">
-            <h3 class="text-body-1 font-weight-bold">Benthos - Pure (Official Video)</h3>
+            <h3 class="text-body-1 font-weight-bold">Lyle Christine - Pure (Official Video)</h3>
             <p class="text-overline text-center">Released on January, 13th 2025</p>
           </div>
 
@@ -164,7 +164,7 @@ const { mdAndDown } = useDisplay()
                 muted
                 loop
                 :src="mdAndDown ? pure_clip_sm : pure_clip_lg"
-                alt="Thumbnail for Benthos - Pure (Official Video)"
+                alt="Thumbnail for Lyle Christine - Pure (Official Video)"
                 class="video-responsive"
               />
               <v-icon icon="fas fa-circle-play" class="play-icon" color="brown-lighten-5" />
@@ -174,7 +174,7 @@ const { mdAndDown } = useDisplay()
 
         <v-col cols="12" md="6">
           <div class="text-center mb-4">
-            <h3 class="text-body-1 font-weight-bold">Benthos - Fossil (Official Video)</h3>
+            <h3 class="text-body-1 font-weight-bold">Lyle Christine - Fossil (Official Video)</h3>
             <p class="text-overline text-center">Released on November, 12th 2024</p>
           </div>
 
@@ -189,7 +189,7 @@ const { mdAndDown } = useDisplay()
                 muted
                 loop
                 :src="mdAndDown ? fossil_clip_sm : fossil_clip_lg"
-                alt="Thumbnail for Benthos - Fossil (Official Video)"
+                alt="Thumbnail for Lyle Christine - Fossil (Official Video)"
                 class="video-responsive"
               />
               <v-icon icon="fas fa-circle-play" class="play-icon" color="brown-lighten-5" />

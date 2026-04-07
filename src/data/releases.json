@@ -1,490 +1,722 @@
-{
-  "fromNothing": {
+{"stanky": {
+  "overline": "The latest single",
+  "releaseType": "Single",
+  "title": "Stanky",
+  "releaseDate": "August 16, 2022",
+  "coverLg": "/album_covers/large/stanky-lg.avif",
+  "coverSm": "/album_covers/small/stanky-sm.avif",
+  "setlist": [
+    {
+      "title": "Stanky",
+      "length": "03:59"
+    }
+  ],
+  "links": [
+    {
+      "name": "Spotify",
+      "icon": "spotify",
+      "link": "https://open.spotify.com/album/6syJX94oTEoknQZoAf1dOY"
+    },
+    {
+      "name": "Apple Music",
+      "icon": "apple_music",
+      "link": "https://music.apple.com/us/album/stanky-single/1642510756"
+    },
+    {
+      "name": "YouTube Music",
+      "icon": "youtube_music",
+      "link": "https://music.youtube.com/watch?v=CezIVSSunZs"
+    },
+    {
+      "name": "Amazon Music",
+      "icon": "amazon_music",
+      "link": "https://music.amazon.com/albums/B0BCGB6W7Q"
+    }
+  ]
+},
+  "funraiser": {
     "overline": "The new album",
     "releaseType": "Album",
-    "title": "From Nothing",
-    "releaseDate": "April 11, 2025",
-    "coverLg": "/album_covers/large/benthos_fromnothing_cover-lg.avif",
-    "coverSm": "/album_covers/small/benthos_fromnothing_cover-sm.avif",
+    "title": "Funraiser",
+    "releaseDate": "January 13, 2020",
+    "coverLg": "/album_covers/large/funraiser-lg.avif",
+    "coverSm": "/album_covers/small/funraiser-sm.avif",
     "setlist": [
       {
-        "title": "It Starts",
-        "length": "01:10"
+        "title": "Ennui",
+        "length": "04:19",
+        "video": "https://www.youtube.com/watch?v=Mm20cJjJJ5I"
       },
       {
-        "title": "From Nothing",
-        "length": "05:41"
+        "title": "Swiss After Life",
+        "length": "02:28"
       },
       {
-        "title": "Let Me Plunge",
-        "length": "03:59",
-        "video": "https://youtu.be/b2SJj3cd1NE"
+        "title": "Dreadlock",
+        "length": "02:37"
       },
       {
-        "title": "As a Cordyceps",
-        "length": "03:18",
-        "video": "https://www.youtube.com/watch?v=YyU3vCAol-E"
+        "title": "Big Band(its)",
+        "length": "02:37"
       },
       {
-        "title": "Fossil",
-        "length": "06:30",
-        "video": "https://www.youtube.com/watch?v=vtXFiFwSIy0"
+        "title": "Tools to Survive",
+        "length": "03:25"
       },
       {
-        "title": "Recompose",
-        "length": "01:34"
+        "title": "Priory",
+        "length": "02:31"
       },
       {
-        "title": "The Giant Child",
-        "length": "04:34"
+        "title": "Disease to Please",
+        "length": "05:25"
       },
       {
-        "title": "Pure",
-        "length": "04:45",
-        "video": "https://www.youtube.com/watch?v=GZorqyd95Zk"
+        "title": "Kindling",
+        "length": "04:19"
       },
       {
-        "title": "Athletic Worms",
-        "length": "02:21"
+        "title": "No Dice",
+        "length": "03:51"
       },
       {
-        "title": "Perpetual Drone Monkeys",
-        "length": "04:55",
-        "video": "https://youtu.be/b2SJj3cd1NE?feature=shared"
-      },
-      {
-        "title": "To Everything",
-        "length": "04:44"
-      },
-      {
-        "title": "It Ends",
-        "length": "01:54"
+        "title": "Memento Mori",
+        "length": "03:33"
       }
     ],
     "albumLinks": {
-      "btnText": "Buy vinyl / CD",
-      "btnLink": "http://ffm.bio/benthos",
-      "bandcampLink": "https://benthosmusic.bandcamp.com/album/from-nothing-24-bit-hd-audio"
+      "btnText": "Listen on Spotify",
+      "btnLink": "https://open.spotify.com/album/30lBuLQ13w4ZjsZK3bYXD2",
+      "bandcampLink": "https://lylechristine.bandcamp.com/album/funraiser"
     },
 
     "links": [
       {
         "name": "Spotify",
         "icon": "spotify",
-        "link": "https://linkfire.prf.hn/click/camref:1101lpEMJ/pubref:Benthos%3BBenthos.lnk.to%2FFromNothing-Album%3B16482af3abfc6daf23dcfef89aa8c432/sportifyurl:https%3A%2F%2Fopen.spotify.com%2Falbum%2F6NBzyj5wkRF2ILEoAaIQRQ%3Fgo%3D1/destination:https%3A%2F%2Fopen.spotify.com%2Falbum%2F6NBzyj5wkRF2ILEoAaIQRQ%3Fgo%3D1"
+        "link": "https://open.spotify.com/album/30lBuLQ13w4ZjsZK3bYXD2"
       },
       {
         "name": "Apple Music",
         "icon": "apple_music",
-        "link": "https://music.apple.com/it/album/1791135265?app=music&at=1010lNLq&ct=LFV_16482af3abfc6daf23dcfef89aa8c432&itscg=30440&itsct=catchall_p2&lId=211969221&cId=none&sr=2&src=Linkfire&ls=1"
-      },
-      {
-        "name": "Amazon Music",
-        "icon": "amazon_music",
-        "link": "https://music.amazon.com/albums/B0DTB4V35Z?tag=1165492_pink_beautifultrauma-21&ie=UTF8&linkCode=as2&ascsubtag=16482af3abfc6daf23dcfef89aa8c432&ref=dmm_acq_soc_it_u_lfire_lp_x_16482af3abfc6daf23dcfef89aa8c432"
-      },
-      {
-        "name": "TIDAL",
-        "icon": "tidal",
-        "link": "http://www.tidal.com/album/412307382"
-      },
-      {
-        "name": "YouTube",
-        "icon": "youtube",
-        "link": "https://www.youtube.com/playlist?list=PLUdz-epcjgwy80ddBe5Irr-HBVyy6f1_i&src=Linkfire&lId=4d430bd0-0bba-4e04-a353-04c02b6929a2&cId=d3d58fd7-4c47-11e6-9fd0-066c3e7a8751"
+        "link": "https://music.apple.com/us/album/funraiser/1494480177"
       },
       {
         "name": "YouTube Music",
         "icon": "youtube_music",
-        "link": "https://music.youtube.com/playlist?list=OLAK5uy_k2nJoIn_3B1fjnwFr6DxXEo28OG4xgHPA&src=Linkfire&lId=4d430bd0-0bba-4e04-a353-04c02b6929a2&cId=d3d58fd7-4c47-11e6-9fd0-066c3e7a8751"
-      },
-      {
-        "name": "Deezer",
-        "icon": "deezer",
-        "link": "https://www.deezer.com/album/699318951?app_id=140685&utm_source=partner_linkfire&utm_campaign=16482af3abfc6daf23dcfef89aa8c432&utm_medium=Original&utm_term=century-media-records&utm_content=album-699318951"
-      }
-    ]
-  },
-  "plunge": {
-    "overline": "The latest single",
-    "releaseType": "Single",
-    "title": "Let Me Plunge",
-    "releaseDate": "March 10, 2025",
-    "coverLg": "/album_covers/large/benthos_plunge_cover-lg.avif",
-    "coverSm": "/album_covers/small/benthos_plunge_cover-sm.avif",
-    "setlist": [
-      {
-        "title": "Let Me Plunge",
-        "length": "03:59",
-        "video": "https://www.youtube.com/watch?v=b2SJj3cd1NE"
-      }
-    ],
-    "links": [
-      {
-        "name": "Spotify",
-        "icon": "spotify",
-        "link": ""
-      },
-      {
-        "name": "Apple Music",
-        "icon": "apple_music",
-        "link": ""
+        "link": "https://music.youtube.com/playlist?list=OLAK5uy_maZdfS7sWKQBMylpot-c35CFMgwc0q3SE"
       },
       {
         "name": "Amazon Music",
         "icon": "amazon_music",
-        "link": ""
-      },
-      {
-        "name": "TIDAL",
-        "icon": "tidal",
-        "link": ""
-      },
-      {
-        "name": "YouTube",
-        "icon": "youtube",
-        "link": "https://www.youtube.com/watch?v=b2SJj3cd1NE"
-      },
-      {
-        "name": "YouTube Music",
-        "icon": "youtube_music",
-        "link": ""
-      },
-      {
-        "name": "Deezer",
-        "icon": "deezer",
-        "link": ""
+        "link": "https://music.amazon.co.uk/albums/B083XGCZDT"
       }
     ]
   },
-  "cordyceps": {
-    "overline": "Released February 7th, 2025",
-    "releaseType": "Single",
-    "title": "As a Cordyceps",
-    "releaseDate": "February 7, 2025",
-    "coverLg": "/album_covers/large/benthos_cordyceps_cover-lg.avif",
-    "coverSm": "/album_covers/small/benthos_cordyceps_cover-sm.avif",
-    "setlist": [
-      {
-        "title": "As a Cordyceps",
-        "length": "03:17",
-        "video": "https://youtu.be/YyU3vCAol-E"
-      }
-    ],
-    "links": [
-      {
-        "name": "Spotify",
-        "icon": "spotify",
-        "link": "https://open.spotify.com/album/1lG4DjTvmFaxJE4xbxphep?si=JwmDJ6hOQ4KYGnJaAKUNHA"
-      },
-      {
-        "name": "Apple Music",
-        "icon": "apple_music",
-        "link": "https://music.apple.com/it/album/as-a-cordyceps/1791135265?i=1791135269"
-      },
-      {
-        "name": "Amazon Music",
-        "icon": "amazon_music",
-        "link": "https://music.amazon.com/albums/B0DTB4V35Z/"
-      },
-      {
-        "name": "TIDAL",
-        "icon": "tidal",
-        "link": "http://www.tidal.com/album/412307906"
-      },
-      {
-        "name": "YouTube",
-        "icon": "youtube",
-        "link": "https://youtu.be/YyU3vCAol-E"
-      },
-      {
-        "name": "YouTube Music",
-        "icon": "youtube_music",
-        "link": "https://music.youtube.com/playlist?list=OLAK5uy_nTCd9CphApCFnEo69qV52hViTPefyqnAM"
-      },
-      {
-        "name": "Deezer",
-        "icon": "deezer",
-        "link": "https://deezer.page.link/9pVkZJn8MmrNHLJ6A"
-      }
-    ]
-  },
-  "pure": {
-    "overline": "Released January 13th, 2025",
-    "releaseType": "Single",
-    "title": "Pure",
-    "releaseDate": "January 13, 2025",
-    "coverLg": "/album_covers/large/benthos_pure_cover-lg.avif",
-    "coverSm": "/album_covers/small/benthos_pure_cover-sm.avif",
-    "setlist": [
-      {
-        "title": "Pure",
-        "length": "04:45",
-        "video": "https://youtu.be/GZorqyd95Zk"
-      }
-    ],
-    "links": [
-      {
-        "name": "Spotify",
-        "icon": "spotify",
-        "link": "https://open.spotify.com/track/3dU1PcqidTkDP4mHhVbDvC?si=2a4ba45c76a64e78"
-      },
-      {
-        "name": "Apple Music",
-        "icon": "apple_music",
-        "link": "https://music.apple.com/it/album/pure/1783606881?i=1783606892"
-      },
-      {
-        "name": "Amazon Music",
-        "icon": "amazon_music",
-        "link": "https://music.amazon.com/tracks/B0DPNDPMNY"
-      },
-      {
-        "name": "TIDAL",
-        "icon": "tidal",
-        "link": "https://tidal.com/browse/track/403922148"
-      },
-      {
-        "name": "YouTube",
-        "icon": "youtube",
-        "link": "https://youtu.be/GZorqyd95Zk"
-      },
-      {
-        "name": "YouTube Music",
-        "icon": "youtube_music",
-        "link": "https://music.youtube.com/watch?v=BkXpfBfwZBc&feature=shared"
-      },
-      {
-        "name": "Deezer",
-        "icon": "deezer",
-        "link": "https://deezer.page.link/CoJBdrbAFy2H5FQN7"
-      }
-    ]
-  },
-  "fossil": {
-    "overline": "Released Nov 12th, 2024",
-    "releaseType": "Single",
-    "title": "Fossil",
-    "releaseDate": "November 12, 2024",
-    "coverLg": "/album_covers/large/benthos_fossil_cover-lg.avif",
-    "coverSm": "/album_covers/small/benthos_fossil_cover-sm.avif",
-    "setlist": [
-      {
-        "title": "Fossil",
-        "length": "06:30",
-        "video": "https://www.youtube.com/watch?v=vtXFiFwSIy0"
-      }
-    ],
-    "links": [
-      {
-        "name": "Spotify",
-        "icon": "spotify",
-        "link": "https://open.spotify.com/album/0N5zF8HnCOln8KSUhBYv2j?si=Cc5IL55LQHSMCZCVHEO5Aw"
-      },
-      {
-        "name": "Apple Music",
-        "icon": "apple_music",
-        "link": "https://music.apple.com/it/album/fossil-single/1774275792"
-      },
-      {
-        "name": "Amazon Music",
-        "icon": "amazon_music",
-        "link": "https://music.amazon.it/albums/B0DK5YYS95"
-      },
-      {
-        "name": "TIDAL",
-        "icon": "tidal",
-        "link": "https://tidal.com/browse/track/393678248"
-      },
-      {
-        "name": "YouTube",
-        "icon": "youtube",
-        "link": "https://www.youtube.com/watch?v=vtXFiFwSIy0"
-      },
-      {
-        "name": "YouTube Music",
-        "icon": "youtube_music",
-        "link": "https://music.youtube.com/watch?v=LOuB-IhdCqY&feature=shared"
-      },
-      {
-        "name": "Deezer",
-        "icon": "deezer",
-        "link": "https://deezer.page.link/8i6BVFXq616UikYv9"
-      }
-    ]
-  },
-  "dragonfly_live": {
-    "overline": "Live at Dissonance Festival",
-    "title": "Talk to Me, Dragonfly!",
-    "releaseType": "Live version",
-    "releaseDate": "October 20, 2023",
-    "coverLg": "/album_covers/large/benthos_dissonance_cover-lg.avif",
-    "coverSm": "/album_covers/small/benthos_dissonance_cover-sm.avif",
-    "setlist": [
-      {
-        "title": "Talk to Me, Dragonfly! (Live at Dissonance Festival)",
-        "length": "05:43",
-        "video": "https://www.youtube.com/watch?v=ue1BDz156Z4"
-      }
-    ],
-    "links": [
-      {
-        "name": "Spotify",
-        "icon": "spotify",
-        "link": "https://open.spotify.com/album/5N8Sujic3j3c81bEW2cfSj?si=ACRZ1z-pQmii4Ro6upVuXw"
-      },
-      {
-        "name": "Apple Music",
-        "icon": "apple_music",
-        "link": "https://music.apple.com/it/album/talk-to-me-dragonfly-live-at-dissonance-festival/1708967129?i=1708967135&at=1000lHKX&ct=linktree_http&itsct=lt_m&itscg=30200&ls=1"
-      },
-      {
-        "name": "Amazon Music",
-        "icon": "amazon_music",
-        "link": "https://music.amazon.com/albums/B0CJS36JQ7?trackAsin=B0CJS31VJN"
-      },
-      {
-        "name": "TIDAL",
-        "icon": "tidal",
-        "link": "https://listen.tidal.com/album/318267958/track/318267959"
-      },
-      {
-        "name": "YouTube",
-        "icon": "youtube",
-        "link": "https://www.youtube.com/watch?v=ue1BDz156Z4"
-      },
-      {
-        "name": "YouTube Music",
-        "icon": "youtube_music",
-        "link": "https://music.youtube.com/watch?v=ue1BDz156Z4"
-      },
-      {
-        "name": "Deezer",
-        "icon": "deezer",
-        "link": "https://www.deezer.com/track/2471713781"
-      }
-    ]
-  },
-  "debris_essence": {
-    "overline": "B-side single",
-    "releaseType": "Alternate version",
-    "title": "Debris // Essence",
-    "releaseDate": "January 14, 2022",
-    "coverLg": "/album_covers/large/benthos_debris_cover-lg.avif",
-    "coverSm": "/album_covers/small/benthos_debris_cover-sm.avif",
-    "setlist": [
-      {
-        "title": "Debris // Essence (B-Side)",
-        "length": "04:48",
-        "video": "https://www.youtube.com/watch?v=1tVxbYR59Gc"
-      }
-    ],
-    "links": [
-      {
-        "name": "Spotify",
-        "icon": "spotify",
-        "link": "https://open.spotify.com/album/5jjtGMErjR5QPY0tTtTWIC?si=19csq1FcSkCaeR9Kg10pUA"
-      },
-      {
-        "name": "Apple Music",
-        "icon": "apple_music",
-        "link": "https://geo.music.apple.com/it/album/_/1597024043?app=music&at=1000lHKX&ct=linktree_http&i=1597024048&itscg=30200&itsct=lt_m&ls=1&mt=1"
-      },
-      {
-        "name": "Amazon Music",
-        "icon": "amazon_music",
-        "link": "https://music.amazon.com/albums/B09MH3THK9?trackAsin=B09MHB9JYX"
-      },
-      {
-        "name": "TIDAL",
-        "icon": "tidal",
-        "link": "https://listen.tidal.com/track/206390485"
-      },
-      {
-        "name": "YouTube",
-        "icon": "youtube",
-        "link": "https://www.youtube.com/watch?v=1tVxbYR59Gc"
-      },
-      {
-        "name": "YouTube Music",
-        "icon": "youtube_music",
-        "link": "https://music.youtube.com/watch?v=co4wC-fTtr8"
-      },
-      {
-        "name": "Deezer",
-        "icon": "deezer",
-        "link": "https://www.deezer.com/track/1564501592"
-      }
-    ]
-  },
-  "ii": {
-    "overline": "The debut album",
+  "duff steer": {
+    "overline": "Released March 20th, 2017",
     "releaseType": "Album",
-    "title": "II",
-    "releaseDate": "April 23, 2021",
-    "coverLg": "/album_covers/large/benthos_ii_cover-lg.avif",
-    "coverSm": "/album_covers/small/benthos_ii_cover-sm.avif",
+    "title": "Duff Steer",
+    "releaseDate": "March 20, 2017",
+    "coverLg": "/album_covers/large/duff_steer-lg.avif",
+    "coverSm": "/album_covers/small/duff_steer-sm.avif",
     "setlist": [
       {
-        "title": "Cartesio",
-        "length": "03:55",
-        "video": "https://www.youtube.com/watch?v=TQuuQxOuI_k"
+        "title": "Hoots",
+        "length": "05:39"
       },
-      { "title": "Back and Forth", "length": "04:24" },
       {
-        "title": "Talk to Me, Dragonfly!",
-        "length": "04:47",
-        "video": "https://www.youtube.com/watch?v=iXOm0oeMGZc"
-      },
-      { "title": "Facing the Deep", "length": "02:19" },
-      {
-        "title": "Debris // Essence",
+        "title": "Say That Again",
         "length": "04:11",
-        "video": "https://www.youtube.com/watch?v=hzknSmWxw2I"
+        "video": "https://www.youtube.com/watch?v=rivoY20NfPU"
       },
-      { "title": "II", "length": "05:40" },
-      { "title": "Dissolving Flowers", "length": "06:45" }
+      {
+        "title": "Bumpkin",
+        "length": "03:33"
+      },
+      {
+        "title": "Slip Groat",
+        "length": "04:16"
+      },
+      {
+        "title": "Grimace",
+        "length": "04:39"
+      },
+      {
+        "title": "Minkerton",
+        "length": "02:32"
+      },
+      {
+        "title": "Port Valour",
+        "length": "04:02"
+      },
+      {
+        "title": "Mustard Hop",
+        "length": "03:17"
+      },
+      {
+        "title": "Knitting Nancy",
+        "length": "03:41"
+      },
+      {
+        "title": "Fracker",
+        "length": "03:30"
+      }
     ],
     "albumLinks": {
-      "btnText": "Buy CD",
-      "btnLink": "https://store.benthos-band.com/",
-      "bandcampLink": "https://benthosmusic.bandcamp.com/album/ii"
+      "btnText": "Listen on Spotify",
+      "btnLink": "https://open.spotify.com/album/3twIEiP2gRUvqHrIERjqLs",
+      "bandcampLink": "https://lylechristine.bandcamp.com/album/duff-steer"
     },
     "links": [
       {
         "name": "Spotify",
         "icon": "spotify",
-        "link": "https://open.spotify.com/album/5jLm0U00y9utdjUPT88B1l?si=INDVdUr1Sti7OM-Fr-4LPg"
+        "link": "https://open.spotify.com/album/3twIEiP2gRUvqHrIERjqLs"
       },
       {
         "name": "Apple Music",
         "icon": "apple_music",
-        "link": "https://geo.music.apple.com/it/album/_/1545065439?app=music&at=1000lHKX&ct=linktree_http&itscg=30200&itsct=lt_m&ls=1&mt=1"
+        "link": "https://itunes.apple.com/us/album/duff-steer/id1211351871"
       },
       {
         "name": "Amazon Music",
         "icon": "amazon_music",
-        "link": "https://music.amazon.com/albums/B08QRBWC4M"
+        "link": "https://www.amazon.com/Duff-Steer-Lyle-Christine/dp/B06XDTS3CS"
+      }
+    ]
+  },
+  "the landed gentry": {
+    "overline": "Released April 20th, 2015",
+    "releaseType": "Album",
+    "title": "The Landed Gentry",
+    "releaseDate": "April 20, 2015",
+    "coverLg": "/album_covers/large/the_landed_gentry-lg.avif",
+    "coverSm": "/album_covers/small/the_landed_gentry-sm.avif",
+    "setlist": [
+      {
+        "title": "Wilting Member",
+        "length": "04:02"
       },
       {
-        "name": "TIDAL",
-        "icon": "tidal",
-        "link": "https://listen.tidal.com/album/166359206"
+        "title": "Safe As Poppies ",
+        "length": "03:05"
       },
       {
-        "name": "YouTube",
-        "icon": "youtube",
-        "link": "https://www.youtube.com/playlist?list=OLAK5uy_nOJ6EOxnGqt6Ieu9IOmYU73EivJwY8FeQ"
+        "title": "Morning Is Broken ",
+        "length": "04:31"
+      },
+      {
+        "title": "Rootin' & Tootin'",
+        "length": " 03:34"
+      },
+      {
+        "title": "Guitar Coward ",
+        "length": "02:41"
+      },
+      {
+        "title": "Standard Bearer ",
+        "length": "05:14"
+      },
+      {
+        "title": "Sunny With Showers ",
+        "length": "02:33"
+      },
+      {
+        "title": "Get Your Grip ",
+        "length": "04:30"
+      },
+      {
+        "title": "Twerping ",
+        "length": "02:59"
+      },
+      {
+        "title": "One Hundred and One Percent",
+        "length": " 03:35"
+      }
+    ],
+    "albumLinks": {
+      "btnText": "Listen on Spotify",
+      "btnLink": "https://play.spotify.com/album/28omLYt9x5fDgox3fomZ4D",
+      "bandcampLink": "https://lylechristine.bandcamp.com/album/the-landed-gentry"
+    },
+    "links": [
+      {
+        "name": "Spotify",
+        "icon": "spotify",
+        "link": "https://play.spotify.com/album/28omLYt9x5fDgox3fomZ4D"
+      },
+      {
+        "name": "Apple Music",
+        "icon": "apple_music",
+        "link": "https://itunes.apple.com/us/album/the-landed-gentry/id986478028"
+      },
+      {
+        "name": "Amazon Music",
+        "icon": "amazon_music",
+        "link": "https://music.amazon.co.uk/albums/B00WBZFTFS"
+      }
+    ]
+  },
+  "grand mal": {
+    "overline": "Released June 24th, 2013",
+    "releaseType": "Album",
+    "title": "Grand Mal",
+    "releaseDate": "June 24, 2013",
+    "coverLg": "/album_covers/large/grand_mal-lg.avif",
+    "coverSm": "/album_covers/small/grand_mal-sm.avif",
+    "setlist": [
+      {
+        "title": "Scaramouche ",
+        "length": "03:28"
+      },
+      {
+        "title": "Sugar Tits",
+        "length": "03:56"
+      },
+      {
+        "title": "Hard Rock Cliché",
+        "length": "04:23"
+      },
+      {
+        "title": "Whit Fancy",
+        "length": "03:13"
+      },
+      {
+        "title": "The Maiden, The Mother, The Crone ",
+        "length": "02:31"
+      },
+      {
+        "title": "Keepie Uppie",
+        "length": "03:38"
+      },
+      {
+        "title": "Ad Nauseum",
+        "length": "03:22"
+      },
+      {
+        "title": "Pee Pressure",
+        "length": "03:11"
+      },
+      {
+        "title": "Now I Can Take It",
+        "length": "04:38"
+      },
+      {
+        "title": "Jumping the Junk",
+        "length": "02:51"
+      }
+    ],
+    "albumLinks": {
+      "btnText": "Listen on Spotify",
+      "btnLink": "https://play.spotify.com/album/1HMaeS7wP8pU1QUEWT7yjg",
+      "bandcampLink": "https://lylechristine.bandcamp.com/album/grand-mal"
+    },
+    "links": [
+      {
+        "name": "Spotify",
+        "icon": "spotify",
+        "link": "https://play.spotify.com/album/1HMaeS7wP8pU1QUEWT7yjg"
+      },
+      {
+        "name": "Apple Music",
+        "icon": "apple_music",
+        "link": "https://itunes.apple.com/us/album/grand-mal/id929741994"
+      },
+      {
+        "name": "Amazon Music",
+        "icon": "amazon_music",
+        "link": "https://music.amazon.com/albums/B00P0ULL5S"
       },
       {
         "name": "YouTube Music",
         "icon": "youtube_music",
-        "link": "https://music.youtube.com/playlist?list=OLAK5uy_nOJ6EOxnGqt6Ieu9IOmYU73EivJwY8FeQ"
+        "link": "https://music.youtube.com/playlist?list=OLAK5uy_ktRF1VJB6j_TOjw3fkXR0_Wt6qSje535I"
+      }
+    ]
+  },
+  "parish discount": {
+    "overline": "Released July 19th, 2011",
+    "releaseType": "Album",
+    "title": "Parish Discount",
+    "releaseDate": "July 19, 2011",
+    "coverLg": "/album_covers/large/parish_discount-lg.avif",
+    "coverSm": "/album_covers/small/parish_discount-sm.avif",
+    "setlist": [
+      {
+        "title": "Guts for Garters",
+        "length": "04:15"
       },
       {
-        "name": "Deezer",
-        "icon": "deezer",
-        "link": "https://www.deezer.com/album/193593432"
+        "title": "Toodle Pip",
+        "length": "03:57"
+      },
+      {
+        "title": "Pardon the Piddle",
+        "length": "03:22"
+      },
+      {
+        "title": "Crippled by the Crimson",
+        "length": "04:00"
+      },
+      {
+        "title": "Ragtime",
+        "length": "02:25"
+      },
+      {
+        "title": "Dafty",
+        "length": "03:30"
+      },
+      {
+        "title": "The Merry Maids of Fife",
+        "length": "06:33"
+      },
+      {
+        "title": "Trackie Bottoms",
+        "length": "04:02"
+      },
+      {
+        "title": "Pie Chunks",
+        "length": "02:41"
+      },
+      {
+        "title": "Whistle For It",
+        "length": "03:08"
+      }
+    ],
+    "albumLinks": {
+      "btnText": "Listen on Spotify",
+      "btnLink": "https://play.spotify.com/album/71uIslZmJlF20cy32uGAUo",
+      "bandcampLink": "https://lylechristine.bandcamp.com/album/parish-discount"
+    },
+    "links": [
+      {
+        "name": "Spotify",
+        "icon": "spotify",
+        "link": "https://play.spotify.com/album/71uIslZmJlF20cy32uGAUo"
+      },
+      {
+        "name": "Apple Music",
+        "icon": "apple_music",
+        "link": "https://itunes.apple.com/us/album/parish-discount/id938270950"
+      },
+      {
+        "name": "Amazon Music",
+        "icon": "amazon_music",
+        "link": "https://music.amazon.com/albums/B00PV34RV4"
+      },
+      {
+        "name": "YouTube Music",
+        "icon": "youtube_music",
+        "link": "https://music.youtube.com/playlist?list=OLAK5uy_k2HTxTGUvYR93q8frjlRoTsIbYiKmUCuU"
+      }
+    ]
+  },
+  "publish and be damned": {
+    "overline": "Released February 11th, 2011",
+    "releaseType": "Album",
+    "title": "Publish and be Damned",
+    "releaseDate": "February 11, 2011",
+    "coverLg": "/album_covers/large/publish_and_be_damned-lg.avif",
+    "coverSm": "/album_covers/small/publish_and_be_damned-sm.avif",
+    "setlist": [
+      {
+        "title": "Money For Old Goats",
+        "length": "03:26"
+      },
+      {
+        "title": "Trialhood",
+        "length": "05:00"
+      },
+      {
+        "title": "Easy, Rider",
+        "length": "04:37"
+      },
+      {
+        "title": "Where There's Muck, There's Brass",
+        "length": "03:08"
+      },
+      {
+        "title": "Peddling the Pathos",
+        "length": "02:22"
+      },
+      {
+        "title": "The Pleasure Was All Mine",
+        "length": "02:40"
+      },
+      {
+        "title": "5 O'Clock Finish",
+        "length": "05:32"
+      },
+      {
+        "title": "Before I Shuffle Off",
+        "length": "03:28"
+      },
+      {
+        "title": "4.5% ABV",
+        "length": "07:40"
+      },
+      {
+        "title": "Charlemagne Bossa Nova",
+        "length": "04:34"
+      }
+    ],
+    "albumLinks": {
+      "btnText": "Listen on Spotify",
+      "btnLink": "https://play.spotify.com/album/5U7VRzADWo2EANiiQxU7AP",
+      "bandcampLink": "https://lylechristine.bandcamp.com/album/publish-and-be-damned"
+    },
+    "links": [
+      {
+        "name": "Spotify",
+        "icon": "spotify",
+        "link": "https://play.spotify.com/album/5U7VRzADWo2EANiiQxU7AP"
+      },
+      {
+        "name": "Apple Music",
+        "icon": "apple_music",
+        "link": "https://itunes.apple.com/us/album/publish-and-be-damned/id938847884"
+      },
+      {
+        "name": "Amazon Music",
+        "icon": "amazon_music",
+        "link": "https://music.amazon.com/albums/B00PV36XB6"
+      },
+      {
+        "name": "YouTube Music",
+        "icon": "youtube_music",
+        "link": "https://music.youtube.com/playlist?list=OLAK5uy_ncD6tkQcqOEu2OJOyyoxetKUCf75aPV1s"
+      }
+    ]
+  },
+  "dutch carnage": {
+    "overline": "Released June 1st, 2010",
+    "releaseType": "Album",
+    "title": "Dutch Carnage",
+    "releaseDate": "June 01, 2010",
+    "coverLg": "/album_covers/large/dutch_carnage-lg.avif",
+    "coverSm": "/album_covers/small/dutch_carnage-sm.avif",
+    "setlist": [
+      {
+        "title": "Intervention",
+        "length": "04:04"
+      },
+      {
+        "title": "Meathoney",
+        "length": "04:04"
+      },
+      {
+        "title": "Chippie",
+        "length": "05:06"
+      },
+      {
+        "title": "Liquorice",
+        "length": "02:56"
+      },
+      {
+        "title": "Priory",
+        "length": "02:36"
+      },
+      {
+        "title": "JSA",
+        "length": "03:38"
+      },
+      {
+        "title": "Imago",
+        "length": "03:54"
+      },
+      {
+        "title": "The Heebie Jeebies",
+        "length": "02:08"
+      },
+      {
+        "title": "Sum Totality",
+        "length": "04:48"
+      },
+      {
+        "title": "Dancing Alone",
+        "length": "04:36"
+      }
+    ],
+    "albumLinks": {
+      "btnText": "Listen on Spotify",
+      "btnLink": "https://play.spotify.com/album/57RCAGAxSvalTI1YGqgecw",
+      "bandcampLink": "https://lylechristine.bandcamp.com/album/dutch-carnage"
+    },
+    "links": [
+      {
+        "name": "Spotify",
+        "icon": "spotify",
+        "link": "https://play.spotify.com/album/57RCAGAxSvalTI1YGqgecw"
+      },
+      {
+        "name": "Apple Music",
+        "icon": "apple_music",
+        "link": "https://itunes.apple.com/us/album/dutch-carnage/id938836390"
+      },
+      {
+        "name": "Amazon Music",
+        "icon": "amazon_music",
+        "link": "https://music.amazon.com/albums/B00PV318W0"
+      },
+      {
+        "name": "YouTube Music",
+        "icon": "youtube_music",
+        "link": "https://music.youtube.com/playlist?list=OLAK5uy_mWiCbSiM7INsXnM9EfGAfHGZgQ6JwCzX0"
+      }
+    ]
+  },
+  "eternal return of the lame": {
+    "overline": "Released April 1st, 2008",
+    "releaseType": "Album",
+    "title": "Eternal Return of the Lame",
+    "releaseDate": "April 01, 2008",
+    "coverLg": "/album_covers/large/eternal_return_of_the_lame-lg.avif",
+    "coverSm": "/album_covers/small/eternal_return_of_the_lame-sm.avif",
+    "setlist": [
+      {
+        "title": "Keine Angst (fear of science)",
+        "length": "04:37"
+      },
+      {
+        "title": "RRP",
+        "length": "04:41"
+      },
+      {
+        "title": "Major Head Trauma",
+        "length": "03:44"
+      },
+      {
+        "title": "Owner's Delight",
+        "length": "02:58"
+      },
+      {
+        "title": "Life's a Fart",
+        "length": "03:44"
+      },
+      {
+        "title": "Dosado",
+        "length": "04:02"
+      },
+      {
+        "title": "Christinian Quandary",
+        "length": "06:03"
+      },
+      {
+        "title": "Tastes Like White Lightning",
+        "length": "06:07"
+      },
+      {
+        "title": "Take No Heed",
+        "length": "04:02"
+      },
+      {
+        "title": "Marxopolis",
+        "length": "07:13"
+      }
+    ],
+    "albumLinks": {
+      "btnText": "Listen on Spotify",
+      "btnLink": "https://play.spotify.com/album/6Uv7ITiSIHP6tsoBIpw0LK",
+      "bandcampLink": "https://lylechristine.bandcamp.com/album/eternal-return-of-the-lame"
+    },
+    "links": [
+      {
+        "name": "Spotify",
+        "icon": "spotify",
+        "link": "https://play.spotify.com/album/6Uv7ITiSIHP6tsoBIpw0LK"
+      },
+      {
+        "name": "Apple Music",
+        "icon": "apple_music",
+        "link": "https://itunes.apple.com/us/album/eternal-return-of-the-lame/id938881545"
+      },
+      {
+        "name": "Amazon Music",
+        "icon": "amazon_music",
+        "link": "https://music.amazon.com/albums/B00PV32K1S"
+      },
+      {
+        "name": "YouTube Music",
+        "icon": "youtube_music",
+        "link": "https://music.youtube.com/playlist?list=OLAK5uy_mVuX-2I7bKaUyabME4_H1xgwhQUqfMISk"
+      }
+    ]
+  },
+  "why doesnt my album sound as loud as everyone elses": {
+    "overline": "Released October 1st, 2007",
+    "releaseType": "Album",
+    "title": "Why Doesn't My Album Sound As Loud As Everyone Else's?",
+    "releaseDate": "October 01, 2007",
+    "coverLg": "/album_covers/large/why_doesnt_my_album_sound_as_loud_as_everyone_elses-lg.avif",
+    "coverSm": "/album_covers/small/why_doesnt_my_album_sound_as_loud_as_everyone_elses-sm.avif",
+    "setlist": [
+      {
+        "title": "Fuck Your 20s",
+        "length": "04:40"
+      },
+      {
+        "title": "Auld Metal",
+        "length": "05:03"
+      },
+      {
+        "title": "Factory Default",
+        "length": "05:48"
+      },
+      {
+        "title": "Mañana",
+        "length": "04:33"
+      },
+      {
+        "title": "Buyer's Remorse",
+        "length": "03:46"
+      },
+      {
+        "title": "Where Loops Begin, Men Scream",
+        "length": "02:40"
+      },
+      {
+        "title": "I Wanna Be Your Dog",
+        "length": "03:46"
+      },
+      {
+        "title": "AC Hardcore",
+        "length": "05:56"
+      },
+      {
+        "title": "Edi Funk",
+        "length": "03:09"
+      },
+      {
+        "title": "Gone Fishin'",
+        "length": "05:46"
+      }
+    ],
+    "albumLinks": {
+      "btnText": "Listen on Spotify",
+      "btnLink": "https://play.spotify.com/album/6cBCUs4C0rX8tnlKyCHVWZ",
+      "bandcampLink": "https://lylechristine.bandcamp.com/album/why-doesnt-my-album-sound-as-loud-as-everyone-elses"
+    },
+    "links": [
+      {
+        "name": "Spotify",
+        "icon": "spotify",
+        "link": "https://play.spotify.com/album/6cBCUs4C0rX8tnlKyCHVWZ"
+      },
+      {
+        "name": "Apple Music",
+        "icon": "apple_music",
+        "link": "https://itunes.apple.com/us/album/why-doesnt-my-album-sound/id938831956"
+      },
+      {
+        "name": "Amazon Music",
+        "icon": "amazon_music",
+        "link": "https://music.amazon.com/albums/B00PV38NHS"
+      },
+      {
+        "name": "YouTube Music",
+        "icon": "youtube_music",
+        "link": "https://music.youtube.com/playlist?list=OLAK5uy_mt6dZxYCn6V9KBNF8s2MtJdiqFNUgQ4RE"
       }
     ]
   }

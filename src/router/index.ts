@@ -85,9 +85,9 @@ router.beforeEach((to, from, next) => {
   const authStore = useAuthStore()
 
   if (to.meta.title) {
-    document.title = `Benthos - ${to.meta.title} | Official Website | Progressive Metal band from Italy`
+    document.title = `Lyle Christine | ${to.meta.title}`
   } else {
-    document.title = 'Benthos | Official Website | Progressive Metal band from Italy'
+    document.title = 'Lyle Christine'
   }
 
   if (to.meta.requiresAuth && !authStore.isAuthenticated) {

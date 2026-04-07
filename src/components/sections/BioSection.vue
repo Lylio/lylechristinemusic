@@ -13,7 +13,7 @@ import FFOBlock from '@/components/atoms/FFOBlock.vue'
     <v-container>
       <div class="d-flex flex-column align-center">
         <p class="text-overline text-center text-dark">Progressive Metal band from Italy</p>
-        <h1 class="text-md-h1 text-h2 text-dark">Benthos</h1>
+        <h1 class="text-md-h1 text-h2 text-dark">Lyle Christine</h1>
       </div>
 
       <v-row class="pt-12">

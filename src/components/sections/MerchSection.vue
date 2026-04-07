@@ -21,7 +21,7 @@ const { mobile, mdAndDown } = useDisplay()
           <v-img
             :src="mdAndDown ? merch_mockups_sm : merch_mockups_lg"
             :class="[mdAndDown ? 'px-4' : '']"
-            alt="Benthos Official Merchandise"
+            alt="Lyle Christine Official Merchandise"
             :width="mdAndDown ? '100%' : '80%'"
             eager
           />
@@ -35,7 +35,7 @@ const { mobile, mdAndDown } = useDisplay()
               class="text-brown-lighten-5 w-md-75 w-100"
               height="4rem"
               :size="mobile ? 'large' : 'x-large'"
-              :href="'http://store.benthos-band.com/'"
+              :href="'http://lyle-store-on-index.com'"
               target="_blank"
             >
               EU / UK / WORLD STORE
@@ -46,7 +46,7 @@ const { mobile, mdAndDown } = useDisplay()
               class="text-brown-lighten-5 w-md-75 w-100"
               height="4rem"
               :size="mobile ? 'large' : 'x-large'"
-              :href="'https://merchbooth.net/benthos/'"
+              :href="'https://lyle-secondstore-on-index.com'"
               target="_blank"
             >
               US STORE

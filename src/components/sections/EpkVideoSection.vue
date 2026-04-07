@@ -32,7 +32,7 @@ const playVideo = (index: number) => {
         <v-col cols="12">
           <div class="text-center mb-4">
             <h3 class="text-body-1 font-weight-bold">
-              Benthos - Talk to Me, Dragonfly! (Live at Dissonance Festival)
+              Lyle Christine - Talk to Me, Dragonfly! (Live at Dissonance Festival)
             </h3>
             <p class="text-overline text-center">Released on July, 28th 2023</p>
           </div>
@@ -43,7 +43,7 @@ const playVideo = (index: number) => {
               muted
               loop
               :src="mdAndDown ? dragonfly_clip_sm : dragonfly_clip_lg"
-              alt="Thumbnail for Benthos - Talk to Me, Dragonfly! (Live at Dissonance)"
+              alt="Thumbnail for Lyle Christine - Talk to Me, Dragonfly! (Live at Dissonance)"
               class="video-responsive"
             />
             <v-icon icon="fas fa-circle-play" class="play-icon" color="brown-lighten-5" />
@@ -53,7 +53,7 @@ const playVideo = (index: number) => {
             v-else
             class="video-responsive"
             src="https://www.youtube.com/embed/ue1BDz156Z4?autoplay=1&si=KsNdpRai5xPGilx7"
-            alt="Benthos - Talk to Me, Dragonfly! (Live at Dissonance)"
+            alt="Lyle Christine - Talk to Me, Dragonfly! (Live at Dissonance)"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin"
@@ -74,7 +74,7 @@ const playVideo = (index: number) => {
           <div v-if="!isPlaying[1]" class="video-thumbnail" @click="playVideo(1)">
             <img
               :src="dragonfly"
-              alt="Thumbnail for Benthos - Talk to Me, Dragonfly! (Official Video)"
+              alt="Thumbnail for Lyle Christine - Talk to Me, Dragonfly! (Official Video)"
               class="thumbnail-responsive"
             />
             <v-icon icon="fas fa-circle-play" class="play-icon" />
@@ -84,7 +84,7 @@ const playVideo = (index: number) => {
             v-else
             class="thumbnail-responsive"
             src="https://www.youtube.com/embed/iXOm0oeMGZc?autoplay=1&si=BHKahIdrBgEDgREF"
-            title="Benthos - Talk to Me, Dragonfly! (Official Video)"
+            title="Lyle Christine - Talk to Me, Dragonfly! (Official Video)"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin"
@@ -97,7 +97,7 @@ const playVideo = (index: number) => {
           <div v-if="!isPlaying[2]" class="video-thumbnail" @click="playVideo(2)">
             <img
               :src="debris"
-              alt="Thumbnail for Benthos - Debris // Essence (Official Video)"
+              alt="Thumbnail for Lyle Christine - Debris // Essence (Official Video)"
               class="thumbnail-responsive"
             />
             <v-icon icon="fas fa-circle-play" class="play-icon" />
@@ -107,7 +107,7 @@ const playVideo = (index: number) => {
             v-else
             class="thumbnail-responsive"
             src="https://www.youtube.com/embed/hzknSmWxw2I?autoplay=1&si=78Hin90JdMkjPtPO"
-            title="Benthos - Debris // Essence (Official Video)"
+            title="Lyle Christine - Debris // Essence (Official Video)"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin"
@@ -120,7 +120,7 @@ const playVideo = (index: number) => {
           <div v-if="!isPlaying[3]" class="video-thumbnail" @click="playVideo(3)">
             <img
               :src="cartesio"
-              alt="Thumbnail for Benthos - Cartesio (Official Video)"
+              alt="Thumbnail for Lyle Christine - Cartesio (Official Video)"
               class="thumbnail-responsive"
             />
             <v-icon icon="fas fa-circle-play" class="play-icon" />
@@ -130,7 +130,7 @@ const playVideo = (index: number) => {
             v-else
             class="thumbnail-responsive"
             src="https://www.youtube.com/embed/TQuuQxOuI_k?autoplay=1&si=xkyP0d5y4zm9v_cJ"
-            title="Benthos - Cartesio (Official Video)"
+            title="Lyle Christine - Cartesio (Official Video)"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin"

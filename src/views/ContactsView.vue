@@ -3,8 +3,8 @@ import { ref } from 'vue'
 import { useClipboard } from '@vueuse/core'
 import PageHeader from '@/components/layout/PageHeader.vue'
 
-const sourceOne = ref('amalia@bands.management')
-const sourceTwo = ref('benthos.milano@gmail.com')
+const sourceOne = ref('info@lylechristine.com')
+const sourceTwo = ref('inbox@flakyrecords.com')
 
 const { isSupported } = useClipboard()
 const { copy: copyOne, copied: copiedOne } = useClipboard()
@@ -18,33 +18,33 @@ const { copy: copyTwo, copied: copiedTwo } = useClipboard()
 
       <v-fade-transition appear>
         <v-list
-          class="d-flex flex-column justify-center align-center align-self-center bg-transparent text-dark pt-2 w-100 w-lg-75 h-100"
+            class="d-flex flex-column justify-center align-center align-self-center bg-transparent text-dark pt-2 w-100 w-lg-75 h-100"
         >
           <v-list-item class="text-center pa-0 w-100 w-sm-50">
             <h2
-              class="text-overline font-weight-bold mb-4 mb-md-0"
-              :style="{ fontSize: '16px !important' }"
+                class="text-overline font-weight-bold mb-4 mb-md-0"
+                :style="{ fontSize: '16px !important' }"
             >
-              Management & Booking
+              Lyle Christine
             </h2>
             <p
-              class="text-body-2 font-weight-bold bg-red-darken-2 text-brown-lighten-5 py-1 mt-2 mb-4"
+                class="text-body-2 font-weight-bold bg-red-darken-2 text-brown-lighten-5 py-1 mt-2 mb-4"
             >
-              Amalia Cicala
+              Musician Enquiries
             </p>
             <span
-              v-if="!copiedOne"
-              :class="[
+                v-if="!copiedOne"
+                :class="[
                 isSupported ? 'cursor-pointer' : '',
                 'text-body-2 text-dark border-rounded py-2 px-4'
               ]"
-              @click="isSupported ? copyOne(sourceOne) : ''"
+                @click="isSupported ? copyOne(sourceOne) : ''"
             >
               {{ sourceOne }}
             </span>
             <span
-              v-if="copiedOne"
-              class="text-body-2 text-red-lighten-3 font-weight-bold py-2 px-2"
+                v-if="copiedOne"
+                class="text-body-2 text-red-lighten-3 font-weight-bold py-2 px-2"
             >
               Email copied to clipboard.
             </span>
@@ -54,29 +54,29 @@ const { copy: copyTwo, copied: copiedTwo } = useClipboard()
 
           <v-list-item class="text-center pa-0 w-100 w-sm-50">
             <h2
-              class="text-overline font-weight-bold mb-4 mb-md-0"
-              :style="{ fontSize: '16px !important' }"
+                class="text-overline font-weight-bold mb-4 mb-md-0"
+                :style="{ fontSize: '16px !important' }"
             >
-              The Band
+              Flaky Records
             </h2>
             <p
-              class="text-body-2 font-weight-bold bg-red-darken-2 text-brown-lighten-5 py-1 mt-2 mb-4"
+                class="text-body-2 font-weight-bold bg-red-darken-2 text-brown-lighten-5 py-1 mt-2 mb-4"
             >
-              Benthos
+              Record Label Enquiries
             </p>
             <span
-              v-if="!copiedTwo"
-              :class="[
+                v-if="!copiedTwo"
+                :class="[
                 isSupported ? 'cursor-pointer' : '',
                 'text-body-2 text-dark border-rounded py-2  px-4'
               ]"
-              @click="isSupported ? copyTwo(sourceTwo) : ''"
+                @click="isSupported ? copyTwo(sourceTwo) : ''"
             >
               {{ sourceTwo }}
             </span>
             <span
-              v-if="copiedTwo"
-              class="text-body-2 text-red-lighten-3 font-weight-bold py-2 px-2"
+                v-if="copiedTwo"
+                class="text-body-2 text-red-lighten-3 font-weight-bold py-2 px-2"
             >
               Email copied to clipboard.
             </span>

@@ -13,7 +13,7 @@ const { mobile } = useDisplay()
     >
       <v-container>
         <div class="text-center pb-8">
-          <p class="text-overline">Benthos Catalogue</p>
+          <p class="text-overline">Lyle Christine Catalogue</p>
           <h1 class="text-md-h1 text-h2">Past Releases</h1>
         </div>
 
