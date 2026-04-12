@@ -1,19 +1,19 @@
 [
   {
     "name": "spotify",
-    "link": ""
+    "link": "https://open.spotify.com/artist/4l7u1k3NMn1Y1vsckJhaV6"
   },
   {
     "name": "apple_music",
-    "link": ""
+    "link": "https://itunes.apple.com/us/artist/lyle-christine/id929741998"
   },
   {
     "name": "amazon_music",
-    "link": ""
+    "link": "https://www.amazon.co.uk/music/player/artists/B00P0XYB2A/lyle-christine"
   },
   {
     "name": "tidal",
-    "link": ""
+    "link": "https://tidal.com/artist/6208994"
   },
   {
     "name": "youtube",
@@ -21,10 +21,10 @@
   },
   {
     "name": "youtube_music",
-    "link": ""
+    "link": "https://music.youtube.com/channel/UCvY4FMD-y8aaM8h-ylnDylw"
   },
   {
     "name": "deezer",
-    "link": ""
+    "link": "https://www.deezer.com/en/artist/7019447"
   }
 ]

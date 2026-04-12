@@ -89,7 +89,7 @@ const videoSrc = computed(() => {
               :href="props.fanLink"
               target="_blank"
             >
-              Stream song
+              Stream
             </v-btn>
           </div>
 

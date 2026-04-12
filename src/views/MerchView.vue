@@ -19,14 +19,14 @@ const { mobile, mdAndDown } = useDisplay()
         :style="{ gap: '1rem' }"
       >
         <p class="text-h4 text-brown-lighten-5 text-center pb-6">
-          Shop official Lyle Christine merch from the stores below.
+          Shop official Lyle Christine merch from the stores below!
         </p>
         <v-btn
           variant="flat"
           class="bg-brown-lighten-5 w-md-50 w-100"
           height="4rem"
           :size="mobile ? 'large' : 'x-large'"
-          :href="'http://lyles.store.com'"
+          :href="'http://lyle-uk-eu-world-merch-link.com'"
           target="_blank"
         >
           EU / UK / WORLD STORE
@@ -37,7 +37,7 @@ const { mobile, mdAndDown } = useDisplay()
           class="bg-brown-lighten-5 w-md-50 w-100"
           height="4rem"
           :size="mobile ? 'large' : 'x-large'"
-          :href="'https://lylessecond.store.com'"
+          :href="'https://lyle-us-merch-link.com'"
           target="_blank"
         >
           US / WORLD STORE

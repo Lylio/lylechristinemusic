@@ -35,7 +35,7 @@ const { mobile, mdAndDown } = useDisplay()
               class="text-brown-lighten-5 w-md-75 w-100"
               height="4rem"
               :size="mobile ? 'large' : 'x-large'"
-              :href="'http://lyle-store-on-index.com'"
+              :href="'http://lyle-uk-eu-world-merch-section.com'"
               target="_blank"
             >
               EU / UK / WORLD STORE
@@ -46,7 +46,7 @@ const { mobile, mdAndDown } = useDisplay()
               class="text-brown-lighten-5 w-md-75 w-100"
               height="4rem"
               :size="mobile ? 'large' : 'x-large'"
-              :href="'https://lyle-secondstore-on-index.com'"
+              :href="'https://lyle-us-merch-section.com'"
               target="_blank"
             >
               US STORE

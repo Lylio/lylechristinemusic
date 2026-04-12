@@ -1,58 +1,72 @@
 [
   {
-    "title": "Greener",
-    "releaseDate": "July, 2023",
-    "url": "https://www.lylechristine.com/static/730d6f1edee44cafd65165e009c3aa6d/cbad9/lyle-christine-stubble.png",
+    "title": "Howdy Doody",
+    "releaseDate": "August, 2020",
+    "url": "images/lyle-christine-sepia-lg.avif",
     "coverLg": "images/lyle-christine-sepia-lg.avif",
     "coverSm": "images/lyle-christine-sepia-sm.avif"
   },
   {
-    "title": "As a Cordyceps (Official Video)",
-    "releaseDate": "Released on February 7th, 2025",
-    "url": "https://youtu.be/YyU3vCAol-E",
-    "coverLg": "/thumbnails/large/cordyceps_clip-lg.webm",
-    "coverSm": "/thumbnails/small/cordyceps_clip-sm.webm"
+    "title": "Stanky (official video)",
+    "releaseDate": "August, 2022",
+    "url": "https://www.youtube.com/watch?v=rpAY7lHNs3c",
+    "coverLg": "public/album_covers/large/stanky-lg.avif",
+    "coverSm": "public/album_covers/small/stanky-sm.avif"
   },
   {
-    "title": "Pure (Official Video)",
-    "releaseDate": "Released on January 13th, 2025",
-    "url": "https://www.youtube.com/watch?v=GZorqyd95Zk",
-    "coverLg": "/thumbnails/large/pure_clip-lg.webm",
-    "coverSm": "/thumbnails/small/pure_clip-sm.webm"
+    "title": "Matrix",
+    "releaseDate": "July, 2023",
+    "url": "images/lyle_christine_stubble-lg.avif",
+    "coverLg": "images/lyle_christine_stubble-lg.avif",
+    "coverSm": "images/lyle_christine_stubble-lg.avif"
   },
   {
-    "title": "Fossil (Official Video)",
-    "releaseDate": "Released on November 12th, 2024",
-    "url": "https://www.youtube.com/watch?v=vtXFiFwSIy0",
-    "coverLg": "/thumbnails/large/fossil_clip-lg.webm",
-    "coverSm": "/thumbnails/small/fossil_clip-sm.webm"
+    "title": "Say That Again (official video)",
+    "releaseDate": "March, 2015",
+    "url": "https://www.youtube.com/watch?v=rivoY20NfPU",
+    "coverLg": "images/say_that_again-lg.avif",
+    "coverSm": "images/say_that_again-sm.avif"
   },
   {
-    "title": "Talk to Me, Dragonfly! (Live at Dissonance Festival 2023)",
-    "releaseDate": "Released on July 28th, 2023",
-    "url": "https://youtu.be/ue1BDz156Z4?feature=shared",
-    "coverLg": "/thumbnails/large/dragonfly_clip-lg.webm",
-    "coverSm": "/thumbnails/small/dragonfly_clip-sm.webm"
+    "title": "Kerplunk",
+    "releaseDate": "September, 2022",
+    "url": "public/images/lyle_christine_green_day-lg.avif",
+    "coverLg": "public/images/lyle_christine_green_day-lg.avif",
+    "coverSm": "public/images/lyle_christine_green_day-sm.avif"
   },
   {
-    "title": "Talk to Me, Dragonfly! (Official Video)",
-    "releaseDate": "Released on April 26th, 2021",
-    "url": "https://youtu.be/iXOm0oeMGZc?feature=shared",
-    "coverLg": "/thumbnails/large/dragonfly_thumbnail-lg.avif",
-    "coverSm": "/thumbnails/small/dragonfly_thumbnail-sm.avif"
+    "title": "Ennui (official video)",
+    "releaseDate": "December, 2019",
+    "url": "https://www.youtube.com/watch?v=Mm20cJjJJ5I",
+    "coverLg": "public/images/funraiser-lg.avif",
+    "coverSm": "public/images/funraiser-sm.avif"
   },
   {
-    "title": "Cartesio (Official Video)",
-    "releaseDate": "Released on March 15th, 2021",
-    "url": "https://youtu.be/TQuuQxOuI_k?feature=shared",
-    "coverLg": "/thumbnails/large/cartesio_thumbnail-lg.avif",
-    "coverSm": "/thumbnails/small/cartesio_thumbnail-sm.avif"
+    "title": "Acoustic",
+    "releaseDate": "August, 2019",
+    "url": "public/images/lyle_christine_acoustic-lg.avif",
+    "coverLg": "public/images/lyle_christine_acoustic-lg.avif",
+    "coverSm": "public/images/lyle_christine_acoustic-sm.avif"
   },
   {
-    "title": "Debris // Essence (Official Video)",
-    "releaseDate": "Released on February 2nd, 2021",
-    "url": "https://youtu.be/hzknSmWxw2I?feature=shared",
-    "coverLg": "/thumbnails/large/debris_thumbnail-lg.avif",
-    "coverSm": "/thumbnails/small/debris_thumbnail-sm.avif"
+    "title": "Ad Nauseum (Official Video)",
+    "releaseDate": "October, 2014",
+    "url": "https://www.youtube.com/watch?v=ZFgoVvmpL4Y",
+    "coverLg": "public/images/grand_mal-lg.avif",
+    "coverSm": "public/images/grand_mal-sm.avif"
+  },
+  {
+    "title": "Cartoon",
+    "releaseDate": "March, 2022",
+    "url": "public/images/lyle_christine_cartoon-lg.avif",
+    "coverLg": "public/images/lyle_christine_cartoon-lg.avif",
+    "coverSm": "public/images/lyle_christine_cartoon-sm.avif"
+  },
+  {
+    "title": "Lyle Sustained (Official Video)",
+    "releaseDate": "December, 2022",
+    "url": "https://www.youtube.com/watch?v=DSHN2_OK-rE",
+    "coverLg": "public/images/lyle_distortion_sustainer-lg.avif",
+    "coverSm": "public/images/lyle_distortion_sustainer-sm.avif"
   }
 ]

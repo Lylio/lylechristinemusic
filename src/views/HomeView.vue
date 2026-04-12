@@ -30,19 +30,19 @@ import hero_sm from '/backgrounds/small/bg_hero-sm.avif'
   <NewSingleSection
     :overline="'Released August 16th, 2022'"
     :title="'Stanky'"
-    :fan-link="'https://ffm.bio/lylechristine'"
-    :single-links="'LyleChristineStreamingLinks'"
-    :video-link="'https://www.youtube.com/watch?v=rpAY7lHNs3c'"
+    :fan-link="'public/thumbnails/large/cordyceps_clip-lg.webm'"
+    :single-links="'public/thumbnails/large/cordyceps_clip-lg.webm'"
+    :video-link="'public/thumbnails/large/cordyceps_clip-lg.webm'"
   />
   <HighlightSection :image="'home'" />
   <MerchSection />
   <HighlightSection :image="'fossil'" />
   <NewSingleSection
-    :overline="'Released January 13th, 2025'"
-    :title="'pure'"
-    :fan-link="'https://ffm.to/benthos-pure'"
-    :single-links="pureStreamingLinks"
-    :video-link="'https://youtu.be/GZorqyd95Zk'"
+      :overline="'November, 2024'"
+      :title="'Lyle Distortion Sustainer'"
+      :fan-link="'https://www.youtube.com/watch?v=DSHN2_OK-rE'"
+      :single-links="null"
+      :video-link="null"
   />
   <!-- <NewSingleSection
     :overline="'Released Nov 12th, 2024'"

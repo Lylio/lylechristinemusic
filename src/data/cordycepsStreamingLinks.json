@@ -1,11 +1,11 @@
 [
   {
     "name": "spotify",
-    "link": "https://open.spotify.com/album/1lG4DjTvmFaxJE4xbxphep?si=JwmDJ6hOQ4KYGnJaAKUNHA"
+    "link": "https://open.spotify.com/artist/4l7u1k3NMn1Y1vsckJhaV6"
   },
   {
     "name": "apple_music",
-    "link": "https://music.apple.com/it/album/as-a-cordyceps/1791135265?i=1791135269"
+    "link": "https://itunes.apple.com/us/artist/lyle-christine/id929741998"
   },
   {
     "name": "amazon_music",
@@ -13,18 +13,18 @@
   },
   {
     "name": "tidal",
-    "link": "http://www.tidal.com/album/412307906"
+    "link": "https://tidal.com/artist/6208994"
   },
   {
     "name": "youtube",
-    "link": "https://youtu.be/YyU3vCAol-E"
+    "link": "https://www.youtube.com/@LyleChristine"
   },
   {
     "name": "youtube_music",
-    "link": "https://music.youtube.com/playlist?list=OLAK5uy_nTCd9CphApCFnEo69qV52hViTPefyqnAM"
+    "link": "https://music.youtube.com/channel/UCvY4FMD-y8aaM8h-ylnDylw"
   },
   {
     "name": "deezer",
-    "link": "https://deezer.page.link/9pVkZJn8MmrNHLJ6A"
+    "link": "https://www.deezer.com/en/artist/7019447"
   }
 ]
