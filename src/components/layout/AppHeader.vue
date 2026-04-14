@@ -107,7 +107,7 @@ onMounted(() => {
           transition="slide-x-transition"
       >
         <v-card height="100%" class="d-flex justify-center py-2 bg-brown-lighten-5" rounded="0">
-          <AppSideMenu :Snav-links="navigation" @close="showDialog = false" />
+          <AppSideMenu :nav-links="navigation" @close="showDialog = false" />
         </v-card>
       </v-dialog>
     </v-container>
