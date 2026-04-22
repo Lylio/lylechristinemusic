@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 import { computed } from 'vue'
 import { useDisplay } from 'vuetify'
-import type { SingleStreamingLink } from '@/types/Streaming'
+import type { SingleStreamingLink } from '@/types/releases'
 import fossil_clip_lg from '/thumbnails/large/fossil_clip-lg.webm'
 import fossil_clip_sm from '/thumbnails/small/fossil_clip-sm.webm'
 import pure_clip_lg from '/thumbnails/large/pure_clip-lg.webm'

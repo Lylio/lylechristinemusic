@@ -28,11 +28,16 @@ import hero_sm from '/backgrounds/small/bg_hero-sm.avif'
     :video-link="'https://www.youtube.com/watch?v=b2SJj3cd1NE'"
   /> -->
   <NewSingleSection
-    :overline="'Released August 16th, 2022'"
-    :title="'Stanky'"
-    :fan-link="'public/thumbnails/large/cordyceps_clip-lg.webm'"
-    :single-links="'public/thumbnails/large/cordyceps_clip-lg.webm'"
-    :video-link="'public/thumbnails/large/cordyceps_clip-lg.webm'"
+      :overline="'Released August 16th, 2022'"
+      :title="'Stanky'"
+      :fan-link="'https://your-fanlink-here'"
+      :single-links="[
+    { name: 'spotify', link: 'https://open.spotify.com/track/spotify.png' },
+    { name: 'youtube', link: 'https://www.youtube.com/watch?v=youtube.png' },
+    { name: 'apple_music', link: 'https://music.apple.com/apple_music' },
+    { name: 'amazon_music', link: 'https://music.amazon.com/amazon_music' }
+  ]"
+      :video-link="'https://www.youtube.com/watch?v=...'"
   />
   <HighlightSection :image="'home'" />
   <MerchSection />
@@ -41,8 +46,8 @@ import hero_sm from '/backgrounds/small/bg_hero-sm.avif'
       :overline="'November, 2024'"
       :title="'Lyle Distortion Sustainer'"
       :fan-link="'https://www.youtube.com/watch?v=DSHN2_OK-rE'"
-      :single-links="null"
-      :video-link="null"
+      :single-links="[]"
+      :video-link="''"
   />
   <!-- <NewSingleSection
     :overline="'Released Nov 12th, 2024'"
