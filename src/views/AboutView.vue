@@ -16,8 +16,8 @@ const { mobile } = useDisplay()
     </v-container>
 
     <v-fade-transition appear>
-      <v-parallax v-if="mobile" :src="about_img_sm" position="top" height="15rem" />
-      <v-parallax v-else :src="about_img" height="23rem" position="top" />
+      <v-parallax v-if="mobile" :src="about_img_sm" position="top" height="8rem" />
+      <v-parallax v-else :src="about_img" height="1.25rem" position="top" />
     </v-fade-transition>
 
     <v-container class="px-8">
