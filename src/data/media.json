@@ -10,8 +10,8 @@
     "title": "Stanky (official video)",
     "releaseDate": "August, 2022",
     "url": "https://www.youtube.com/watch?v=rpAY7lHNs3c",
-    "coverLg": "./public/album_covers/large/stanky-lg.avif",
-    "coverSm": "public/album_covers/small/stanky-sm.avif"
+    "coverLg": "/album_covers/large/stanky-lg.avif",
+    "coverSm": "/album_covers/small/stanky-sm.avif"
   },
   {
     "title": "Matrix",
@@ -30,43 +30,43 @@
   {
     "title": "Kerplunk",
     "releaseDate": "September, 2022",
-    "url": "public/images/lyle_christine_green_day-lg.avif",
-    "coverLg": "public/images/lyle_christine_green_day-lg.avif",
-    "coverSm": "public/images/lyle_christine_green_day-sm.avif"
+    "url": "/images/lyle_christine_green_day-lg.avif",
+    "coverLg": "/images/lyle_christine_green_day-lg.avif",
+    "coverSm": "/images/lyle_christine_green_day-sm.avif"
   },
   {
     "title": "Ennui (official video)",
     "releaseDate": "December, 2019",
     "url": "https://www.youtube.com/watch?v=Mm20cJjJJ5I",
-    "coverLg": "public/images/funraiser-lg.avif",
-    "coverSm": "public/images/funraiser-sm.avif"
+    "coverLg": "/images/funraiser-lg.avif",
+    "coverSm": "/images/funraiser-sm.avif"
   },
   {
     "title": "Acoustic",
     "releaseDate": "August, 2019",
-    "url": "public/images/lyle_christine_acoustic-lg.avif",
-    "coverLg": "public/images/lyle_christine_acoustic-lg.avif",
-    "coverSm": "public/images/lyle_christine_acoustic-sm.avif"
+    "url": "/images/lyle_christine_acoustic-lg.avif",
+    "coverLg": "/images/lyle_christine_acoustic-lg.avif",
+    "coverSm": "/images/lyle_christine_acoustic-sm.avif"
   },
   {
     "title": "Ad Nauseum (Official Video)",
     "releaseDate": "October, 2014",
     "url": "https://www.youtube.com/watch?v=ZFgoVvmpL4Y",
-    "coverLg": "public/images/grand_mal-lg.avif",
-    "coverSm": "public/images/grand_mal-sm.avif"
+    "coverLg": "/images/grand_mal-lg.avif",
+    "coverSm": "/images/grand_mal-sm.avif"
   },
   {
     "title": "Cartoon",
     "releaseDate": "March, 2022",
-    "url": "public/images/lyle_christine_cartoon-lg.avif",
-    "coverLg": "public/images/lyle_christine_cartoon-lg.avif",
-    "coverSm": "public/images/lyle_christine_cartoon-sm.avif"
+    "url": "/images/lyle_christine_cartoon-lg.avif",
+    "coverLg": "/images/lyle_christine_cartoon-lg.avif",
+    "coverSm": "/images/lyle_christine_cartoon-sm.avif"
   },
   {
     "title": "Lyle Sustained (Official Video)",
     "releaseDate": "December, 2022",
     "url": "https://www.youtube.com/watch?v=DSHN2_OK-rE",
-    "coverLg": "public/images/lyle_distortion_sustainer-lg.avif",
-    "coverSm": "public/images/lyle_distortion_sustainer-sm.avif"
+    "coverLg": "/images/lyle_distortion_sustainer-lg.avif",
+    "coverSm": "/images/lyle_distortion_sustainer-sm.avif"
   }
 ]
