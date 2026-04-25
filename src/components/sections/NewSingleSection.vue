@@ -107,17 +107,19 @@ const videoSrc = computed(() => {
             </v-btn>
           </div>
 
-          <a :href="props.videoLink" class="video-thumbnail" target="_blank">
-            <video
-              autoplay
-              muted
-              loop
-              :src="videoSrc"
-              :alt="`Thumbnail for Lyle Christine - ${props.title}`"
-              class="video-responsive opacity-90 rounded-lg flat-shadow"
+          <a :href="props.videoLink" target="_blank" class="video-thumbnail">
+            <v-img
+                src="/album_covers/large/stanky-lg.avif"
+                alt="Stanky cover"
+                class="thumbnail-responsive opacity-90 rounded-lg flat-shadow"
+                cover
             />
 
-            <v-icon icon="fas fa-circle-play" class="play-icon" color="brown-lighten-5" />
+            <v-icon
+                icon="fas fa-circle-play"
+                class="play-icon"
+                color="brown-lighten-5"
+            />
           </a>
         </div>
       </v-container>
