@@ -47,7 +47,7 @@ import hero_sm from '/backgrounds/small/bg_hero-sm.avif'
       :title="'Lyle Distortion Sustainer'"
       :fan-link="'https://www.youtube.com/watch?v=DSHN2_OK-rE'"
       :single-links="[]"
-      :video-link="''"
+      :video-link="'https://www.youtube.com/watch?v=DSHN2_OK-rE'"
   />
   <!-- <NewSingleSection
     :overline="'Released Nov 12th, 2024'"
