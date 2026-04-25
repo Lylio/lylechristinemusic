@@ -30,14 +30,14 @@ import hero_sm from '/backgrounds/small/bg_hero-sm.avif'
   <NewSingleSection
       :overline="'Released August 16th, 2022'"
       :title="'Stanky'"
-      :fan-link="'https://your-fanlink-here'"
+      :fan-link="'https://open.spotify.com/album/6syJX94oTEoknQZoAf1dOY'"
       :single-links="[
-    { name: 'spotify', link: 'https://open.spotify.com/track/spotify.png' },
-    { name: 'youtube', link: 'https://www.youtube.com/watch?v=youtube.png' },
-    { name: 'apple_music', link: 'https://music.apple.com/apple_music' },
-    { name: 'amazon_music', link: 'https://music.amazon.com/amazon_music' }
+    { name: 'spotify', link: 'https://open.spotify.com/album/6syJX94oTEoknQZoAf1dOY' },
+    { name: 'youtube', link: 'https://www.youtube.com/watch?v=rpAY7lHNs3c' },
+    { name: 'apple_music', link: 'https://music.apple.com/us/album/stanky/1642510756?i=1642510757' },
+    { name: 'amazon_music', link: 'https://music.amazon.com/albums/B0BCGB6W7Q' }
   ]"
-      :video-link="'https://www.youtube.com/watch?v=...'"
+      :video-link="'https://www.youtube.com/watch?v=rpAY7lHNs3c'"
   />
   <HighlightSection :image="'home'" />
   <MerchSection />
