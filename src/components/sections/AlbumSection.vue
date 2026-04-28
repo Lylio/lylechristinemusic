@@ -77,7 +77,7 @@ const navigateToUrl = (url: string) => {
         <v-img
           :src="mdAndDown ? fromnothing_mockups_sm : fromnothing_mockups_lg"
           :class="[mdAndDown ? 'px-4' : '', 'cursor-pointer mt-6']"
-          @click="navigateToUrl('https://ffm.bio/benthos')"
+          @click="navigateToUrl('https://ffm.bio/lyle')"
           alt="Lyle Christine - From Nothing"
           :width="mdAndDown ? '100%' : '80%'"
           eager
