@@ -1,5 +1,19 @@
 [
   {
+    "title": "Peepity Poppity",
+    "releaseDate": "May, 2026",
+    "url": "images/lyle-christine-grey-bg.avif",
+    "coverLg": "images/lyle-christine-grey-bg.avif",
+    "coverSm": "images/lyle-christine-grey-sm.avif"
+  },
+  {
+    "title": "Shallow Grave",
+    "releaseDate": "May, 2026",
+    "url": "images/lyle_christine_green_bg.png",
+    "coverLg": "images/lyle-christine-reddish-bg.avif",
+    "coverSm": "images/lyle-christine-reddish-sm.avif"
+  },
+  {
     "title": "Howdy Doody",
     "releaseDate": "August, 2020",
     "url": "images/lyle-christine-sepia-lg.avif",

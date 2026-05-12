@@ -5,7 +5,7 @@ import epkData from '@/data/epkData.json'
 import cover_lg from '/album_covers/large/funraiser-lg.avif'
 import cover_sm from '/album_covers/small/benthos_fromnothing_cover-sm.avif'
 import fromnothing_mockups_lg from '/images/fromnothing_mockups-lg.png'
-import fromnothing_mockups_sm from '/images/fromnothing_mockups-sm.png'
+//import fromnothing_mockups_sm from '/images/fromnothing_mockups-sm.png'
 import flaky_records from '/logos/flaky_records.png'
 
 const props = defineProps({
