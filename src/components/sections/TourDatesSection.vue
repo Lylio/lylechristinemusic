@@ -24,7 +24,7 @@ const props = defineProps({
   >
     <v-container>
       <div class="pb-4">
-        <p class="text-center text-overline text-brown-lighten-5">Catch us playing live</p>
+        <p class="text-center text-overline text-brown-lighten-5">Catch me playing live</p>
         <h1 class="text-center text-md-h1 text-h2 text-brown-lighten-5">Tour Dates</h1>
       </div>
 

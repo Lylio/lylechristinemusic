@@ -15,7 +15,7 @@ const { mobile } = useDisplay()
           class="d-flex align-center justify-center justify-md-start text-brown-lighten-5 py-0"
         >
           <p class="pt-2 pt-md-0" :style="{ fontSize: '12px' }">
-            Lyle Christine © {{ new Date().getFullYear() }}
+            Lyle Christine ©{{ new Date().getFullYear() }}
           </p>
         </v-col>
 
