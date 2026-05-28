@@ -26,7 +26,7 @@ const { mobile, mdAndDown } = useDisplay()
           class="bg-brown-lighten-5 w-md-50 w-100"
           height="4rem"
           :size="mobile ? 'large' : 'x-large'"
-          :href="'http://lyle-uk-eu-world-merch-link.com'"
+          :href="'https://lylechristine.bandcamp.com/album/funraiser'"
           target="_blank"
         >
           EU / UK / WORLD STORE
@@ -37,7 +37,7 @@ const { mobile, mdAndDown } = useDisplay()
           class="bg-brown-lighten-5 w-md-50 w-100"
           height="4rem"
           :size="mobile ? 'large' : 'x-large'"
-          :href="'https://lyle-us-merch-link.com'"
+          :href="'https://lylechristine.bandcamp.com/album/funraiser'"
           target="_blank"
         >
           US / WORLD STORE
