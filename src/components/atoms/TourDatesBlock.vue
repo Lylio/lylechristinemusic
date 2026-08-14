@@ -80,7 +80,7 @@ onMounted(() => {
 
       <v-row v-if="!noUpcomingShows" class="justify-center mt-8">
         <v-btn
-          href="https://www.bandsintown.com/a/1419641-benthos"
+            href="https://www.bandsintown.com/a/36119356-lyle-christine"
           target="_blank"
           size="large"
           color="red-darken-2"

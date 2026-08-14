@@ -2,15 +2,16 @@ import axios from 'axios'
 
 export const fetchEvents = async (showPastEvents = false) => {
   try {
-    const res = await axios.get(
-      `https://rest.bandsintown.com/artists/id_${import.meta.env.VITE_BANDSINTOWN_ARTIST_ID}/events`,
-      {
-        params: {
-          app_id: import.meta.env.VITE_BANDSINTOWN_APP_ID,
-          date: showPastEvents ? 'past' : 'upcoming'
-        }
+    const artistId = import.meta.env.VITE_BANDSINTOWN_ARTIST_ID
+    const appId = import.meta.env.VITE_BANDSINTOWN_APP_ID
+    const url = `https://rest.bandsintown.com/artists/id_${artistId}/events`
+
+    const res = await axios.get(url, {
+      params: {
+        app_id: appId,
+        date: showPastEvents ? 'past' : 'upcoming'
       }
-    )
+    })
 
     return res.data
   } catch (err: any) {
