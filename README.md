@@ -16,10 +16,9 @@ Home of Glasgow-based musician Lyle Christine.
 ### Setup & Launch
 
 #### Vue.js Launch
-1. `npm install` (project setup)
-2. `npm run dev` (compile and hot-reload for development @ http://localhost:3000)
-3. `npm run build` (type-check, compile and minify for production)
-4. `npm run lint` (lint with ESLint)
+1. `nvm use 22` (Set Node version)
+2. `npm install` (install dependencies)
+4. `http://localhost:3001 / or http://localhost:5173` (local URL to view site at)
 
 <br >
 
