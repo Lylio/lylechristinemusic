@@ -19,7 +19,7 @@ const { mobile, mdAndDown } = useDisplay()
         :style="{ gap: '1rem' }"
       >
         <p class="text-h4 text-brown-lighten-5 text-center pb-6">
-          Shop official Lyle Christine merch from the stores below!
+          Shop official Lyle Christine merch from the store below!
         </p>
         <v-btn
           variant="flat"
@@ -29,19 +29,10 @@ const { mobile, mdAndDown } = useDisplay()
           :href="'https://lylechristine.bandcamp.com/album/funraiser'"
           target="_blank"
         >
-          EU / UK / WORLD STORE
+          SHOP HERE!
         </v-btn>
 
-        <v-btn
-          variant="flat"
-          class="bg-brown-lighten-5 w-md-50 w-100"
-          height="4rem"
-          :size="mobile ? 'large' : 'x-large'"
-          :href="'https://lylechristine.bandcamp.com/album/funraiser'"
-          target="_blank"
-        >
-          US / WORLD STORE
-        </v-btn>
+
 
         <v-img
           :src="mdAndDown ? merch_mockups_sm : merch_mockups_lg"
