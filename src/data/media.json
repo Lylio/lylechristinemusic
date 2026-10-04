@@ -1,38 +1,31 @@
 [
   {
-    "title": "LINKTREE",
-    "releaseDate": "May, 2026",
-    "url": "https://linktr.ee/lylio",
-    "coverLg": "images/linktreefinal.avif",
-    "coverSm": "images/linktreefinal.avif"
-  },
-  {
     "title": "The Untamed",
     "releaseDate": "October, 2026",
-    "url": "images/the_untamed.png",
-    "coverLg": "images/the_untamed.avif",
-    "coverSm": "images/the_untamed.avif"
+    "url": "/images/the_untamed.png",
+    "coverLg": "/images/the_untamed_final.avif",
+    "coverSm": "/images/the_untamed_final.avif"
   },
   {
     "title": "Peepity Poppity",
     "releaseDate": "May, 2026",
-    "url": "images/lyle-christine-grey-bg.avif",
-    "coverLg": "images/lyle-christine-grey-bg.avif",
-    "coverSm": "images/lyle-christine-grey-sm.avif"
+    "url": "/images/lyle-christine-grey-bg.avif",
+    "coverLg": "/images/lyle-christine-grey-bg.avif",
+    "coverSm": "/images/lyle-christine-grey-sm.avif"
   },
   {
     "title": "Shallow Grave",
     "releaseDate": "May, 2026",
-    "url": "images/lyle_christine_green_bg.png",
-    "coverLg": "images/lyle-christine-reddish-bg.avif",
-    "coverSm": "images/lyle-christine-reddish-sm.avif"
+    "url": "/images/lyle_christine_green_bg.png",
+    "coverLg": "/images/lyle-christine-reddish-bg.avif",
+    "coverSm": "/images/lyle-christine-reddish-sm.avif"
   },
   {
     "title": "Howdy Doody",
     "releaseDate": "August, 2020",
-    "url": "images/lyle-christine-sepia-lg.avif",
-    "coverLg": "images/lyle-christine-sepia-lg.avif",
-    "coverSm": "images/lyle-christine-sepia-sm.avif"
+    "url": "/images/lyle-christine-sepia-lg.avif",
+    "coverLg": "/images/lyle-christine-sepia-lg.avif",
+    "coverSm": "/images/lyle-christine-sepia-sm.avif"
   },
   {
     "title": "Stanky (official video)",
@@ -44,16 +37,16 @@
   {
     "title": "Matrix",
     "releaseDate": "July, 2023",
-    "url": "images/lyle_christine_stubble-lg.avif",
-    "coverLg": "images/lyle_christine_stubble-lg.avif",
-    "coverSm": "images/lyle_christine_stubble-lg.avif"
+    "url": "/images/lyle_christine_stubble-lg.avif",
+    "coverLg": "/images/lyle_christine_stubble-lg.avif",
+    "coverSm": "/images/lyle_christine_stubble-lg.avif"
   },
   {
     "title": "Say That Again (official video)",
     "releaseDate": "March, 2015",
     "url": "https://www.youtube.com/watch?v=rivoY20NfPU",
-    "coverLg": "images/say_that_again-lg.avif",
-    "coverSm": "images/say_that_again-sm.avif"
+    "coverLg": "/images/say_that_again-lg.avif",
+    "coverSm": "/images/say_that_again-sm.avif"
   },
   {
     "title": "Kerplunk",
