@@ -43,12 +43,6 @@ const { mdAndDown } = useDisplay()
                 :alt="`Thumbnail for Lyle Christine - ${item.title}`"
                 class="image-responsive opacity-90 rounded-lg flat-shadow"
             />
-
-            <v-icon
-                icon="fas fa-circle-play"
-                class="play-icon"
-                color="brown-lighten-5"
-            />
           </a>
         </v-fade-transition>
 
@@ -85,20 +79,6 @@ a:hover {
   position: relative;
   display: block;
   cursor: pointer;
-}
-
-.play-icon {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  filter: drop-shadow(0 0 15px rgb(var(--v-theme-dark)));
-  font-size: 48px;
-  transition: all 0.2s ease-in-out;
-
-  &:hover {
-    font-size: 54px;
-  }
 }
 
 .image-responsive {
