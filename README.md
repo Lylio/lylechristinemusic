@@ -1,7 +1,7 @@
 # LyleChristine.com
 
 ### Description
-Home of Glasgow-based musician Lyle Christine.
+LyleChristine.com is a Vue site for Glasgow musician Lyle Christine. Visitors enter through the shared app shell, navigate to pages, and browse music, merchandise, tour dates, media, biography, and contact information; an authenticated route provides the EPK. The merch page loads Big Cartel data through a Pinia store, while tour and photo integrations are represented as distinct subsystems based on the repository structure. Relationships follow the excerpts, SOURCE INDEX references, or README; unsampled integration wiring is left unconnected where it cannot be verified.
 
 |              |                                                                                                                                                                                                                                           |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -11,6 +11,9 @@ Home of Glasgow-based musician Lyle Christine.
 | Top Language | ![Github Language](https://img.shields.io/github/languages/top/lylio/lylechristinemusic?style=for-the-badge)                                                                                                                              |
 | Repo Size    | ![Repo Size](https://img.shields.io/github/repo-size/lylio/lylechristinemusic?style=for-the-badge)                                                                                                                                        |
 | Last Commit  | ![Github Commit Activity](https://img.shields.io/github/last-commit/lylio/lylechristinemusic/main?style=for-the-badge)                                                                                                                    |
+
+<img width="8829" height="7732" alt="diagram (1)" src="https://github.com/user-attachments/assets/c8a9b257-5ab6-495d-b211-7d29adbcd54f" />
+
 
 
 ### Setup & Launch
